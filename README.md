@@ -3,6 +3,8 @@
 A lightweight, client-side tool that converts CSS values from `vw` units to fixed `px` units based on a user-defined reference width.  
 Paste your CSS, set the target screen width, click **Convert**, and receive an updated version ready to copy.
 
+![Screenshot](screenshot.png)
+
 ## Features
 - Fully client-side (no backend required)
 - Converts `vw` values to `px` with a single click
