@@ -1,52 +1,54 @@
-# CSS Unit Converter
+[ 🇬🇧 English Version ](README.md)
 
-A lightweight, client-side tool that converts **CSS values** from `vw` units to fixed `px` units based on a **user-defined reference width**.  
-Paste your CSS, set the target screen width, click **Convert**, and receive an updated version ready to copy.
+# Conversor de Unidades CSS
+
+Una herramienta ligera del lado del cliente que convierte **valores CSS** de unidades `vw` a unidades fijas `px` basándose en un **ancho de referencia definido por el usuario**.
+Pega tu CSS, establece el ancho de pantalla objetivo, haz clic en **Convertir** y obtén una versión actualizada lista para copiar.
 
 ![Screenshot](screenshot.png)
 
 ---
 
-## 🚀 Features
+## 🚀 Características
 
-- Fully **client-side** — no backend required.  
-- Converts `vw` values to `px` with a single click.  
-- Clean and minimal interface.  
-- Ideal for designers and developers needing **precise, fixed-width output**.
-
----
-
-## 🧠 How It Works
-
-1. Enter or paste your CSS containing `vw` values.  
-2. Define the reference screen width in pixels.  
-3. Click **Convert**.  
-4. The tool recalculates all `vw` units into absolute `px` values.  
-5. Copy the generated CSS and use it wherever needed.
+- Totalmente **client-side** — sin backend.
+- Convierte valores `vw` a `px` con un solo clic.
+- Interfaz limpia y minimalista.
+- Ideal para diseñadores y desarrolladores que necesitan una **salida de ancho fijo preciso**.
 
 ---
 
-## ⚡ Why Use This Tool?
+## 🧠 Cómo Funciona
 
-While `vw` units are great for **responsive layouts**, sometimes you need fixed pixel values for:  
-
-- Static layouts  
-- Emails or templates with strict rendering rules  
-- Exporting assets based on a specific screen size  
-- Design handoff consistency  
-
-This tool provides a simple, **browser-based solution** without requiring build tools or dependencies.
+1. Introduce o pega tu CSS que contenga valores `vw`.
+2. Define el ancho de pantalla de referencia en píxeles.
+3. Haz clic en **Convertir**.
+4. La herramienta recalcula todas las unidades `vw` a valores absolutos en `px`.
+5. Copia el CSS generado y úsalo donde lo necesites.
 
 ---
 
-## 🧾 License
+## ⚡ ¿Por qué usar esta herramienta?
 
-This project is licensed under the **MIT License**.  
-See the full license here: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+Aunque las unidades `vw` son excelentes para **diseños responsivos**, a veces necesitas valores de píxeles fijos para:
+
+- Diseños estáticos.
+- Emails o plantillas con reglas de renderizado estrictas.
+- Exportar assets basados en un tamaño de pantalla específico.
+- Consistencia en la entrega de diseño (handoff).
+
+Esta herramienta proporciona una solución sencilla **basada en el navegador** sin requerir herramientas de compilación (build tools) ni dependencias.
 
 ---
 
-## 🧑‍💻 Author
+## 🧾 Licencia
 
-Developed by [**X Software**](https://xsoftware.es)  
-Linux software development, web solutions, and system automation.
+Este proyecto está licenciado bajo la **Licencia MIT**.
+Consulta la licencia completa aquí: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+---
+
+## 🧑‍💻 Autor
+
+Desarrollado por [**X Software**](https://xsoftware.es)
+Desarrollo de software Linux, soluciones web y automatización de sistemas.
